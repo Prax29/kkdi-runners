@@ -470,7 +470,7 @@ export default function Home() {
               <p>Visit our Instagram page!</p>
             </motion.a>
             <motion.a
-              href="https://wa.me/9940911858?text=Hello!%20I%27d%20like%20to%20join%20the%20WhatsApp%20group%20of%20Karaikudi%20Runners%20Club."
+              href="https://wa.me/+919940911858?text=Hello!%20I%27d%20like%20to%20join%20the%20WhatsApp%20group%20of%20Karaikudi%20Runners%20Club."
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-row items-center gap-3 bg-gray-700 text-md lg:text-lg text-yellow-200 p-4 rounded-lg shadow-lg"
